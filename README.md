@@ -34,7 +34,7 @@ ikiryushkin@gmail.com
 
 ### Опыт работы
 
-#### [Неотэк,](https://neotech.ru/) 2018 — настоящее время
+[Неотэк,](https://neotech.ru/) 2018 — настоящее время
 >Профиль компании: переводческая деятельность  
 Должность: редактор локализационных проектов
 
@@ -57,7 +57,7 @@ ikiryushkin@gmail.com
 </details>
 
 
-#### [ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018
+[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018
 >Профиль компании: переводческая деятельность  
 Должность: менеджер отдела контроля качества
 
@@ -79,7 +79,7 @@ ikiryushkin@gmail.com
 </details>
 
 
-#### [ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2013—2015
+[ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2013—2015
 >Профиль компании: переводческая деятельность    
 Должность: менеджер локализационных проектов
 
@@ -103,7 +103,7 @@ OSISoft, Amazon, NetApp и других);
 </details>
 
 
-#### [Лутроник центр](http://bellasystech.ru/), 2012–2013
+[Лутроник центр](http://bellasystech.ru/), 2012–2013
 >Профиль компании: дистрибуция медицинского оборудования  
 Должность: переводчик
 
@@ -122,7 +122,7 @@ OSISoft, Amazon, NetApp и других);
 </details>
 
 
-#### [НИИМЭ и Микрон](www.mikron.ru), 2011–2012
+[НИИМЭ и Микрон](www.mikron.ru), 2011–2012
 >Профиль компании: производство микроэлектроники  
 Должность: инженер по наладке и испытанию оборудования
 
@@ -143,7 +143,7 @@ OSISoft, Amazon, NetApp и других);
 </details>
 
 
-#### [ОПТЭКС](www.mikron.ru), 2009–2011
+[ОПТЭКС](www.mikron.ru), 2009–2011
 >Профиль компании: приборостроение  
 Должность: инженер-электроник
 
@@ -167,11 +167,11 @@ OSISoft, Amazon, NetApp и других);
 
 ### Повышение квалификации, курсы 
 
-#### [Школа для технических писателей DOC Xsolla School](https://school.xsolla.com/documentation2021), 2021 
+[Школа для технических писателей DOC Xsolla School](https://school.xsolla.com/documentation2021), 2021 
 Курс по документации, базовый поток
 
-#### [Курс программирования на Python](https://stepik.org/course/67/promo), 2020
+[Курс программирования на Python](https://stepik.org/course/67/promo), 2020
 Онлайн-курс на платформе [Stepik](https://stepik.org)
 
-#### [Курс машиностроительного перевода](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/), 2017
+[Курс машиностроительного перевода](http://apschool.ru/kurs-mashinostroitelnogo-perevoda/), 2017
 Курс школы отраслевых переводчиков «АЛЬЯНС ПРО»
