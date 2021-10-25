@@ -53,6 +53,9 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
+<br />
+
+    
     
 [ITI](https://web.archive.org/web/20210228184218/https://iti.ru/), 2015—2018  
 >Company profile: Language service provider    
@@ -70,6 +73,8 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
+<br />
+
     
 [ITI](https://www.iti.ru/), 2013—2015  
 >Company profile: Language service provider    
@@ -99,6 +104,8 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
+<br />
+
     
 [Mikron](www.mikron.ru), 2011–2012   
 >Company profile: Semiconductor fabrication plant  
@@ -112,6 +119,8 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
+<br />
+
     
 [OPTECS](https://optecs-npp.ru/), 2009–2011  
 >Company profile: Space instrumentation  
