@@ -81,7 +81,7 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Analyzed project scope, prepared and converted files for various CATs (Trados studio, TWS Translation Workspace‚ MemoQ, Idiom, WordFast, Transit, Passolo, LEAF).
 - Coordinated workflow and activity of translators, editors/reviewers and proofreaders.
 - Participated in meetings with stakeholders.
-- Performed automated quality checks and spot checks before final delivery; copy edited and reworked subpar translations.
+- Performed automated quality checks and spot checks before final delivery; copy-edited and reworked subpar translations.
 - Maintained project style guides, glossaries and translation memories.
 </details>
 
