@@ -43,13 +43,13 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 >Company profile: Language service provider    
 
 <details>
-  <summary>Editor EN<>RU</summary>
+  <summary>Editor (EN<>RU)</summary>
   
 - Edited technical and non-technical translations for various hardware and software providers, including SAP, Dell, NetApp and Microsoft.
 - Devised and evaluated tests for freelance candidates.
 - Created glossaries and style guides, maintained translation memories.
-- Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries here: https://bit.ly/LSPReqsEN).
-- Consulted staff on language quality issues (see an example of the presentation here: https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/).
+- Wrote and published instructions for in-house employees and outsourced personnel (see the example for language service providers from CIS countries [here](https://bit.ly/LSPReqsEN/)).
+- Consulted staff on language quality issues (see an example of the presentation [here](https://prezi.com/view/mEXuGyX4LVUY8fP9Zgk9/)).
 </details>
 
 <br />
