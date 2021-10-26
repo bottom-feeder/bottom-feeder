@@ -53,7 +53,6 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
-<br />
 
     
     
@@ -72,7 +71,6 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Participated in meetings with stakeholders.
 </details>
 
-<br />
 <br />
 
     
@@ -104,7 +102,6 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 </details>
 
 <br />
-<br />
 
     
 [Mikron](www.mikron.ru), 2011–2012   
@@ -118,7 +115,6 @@ Specialist degree in computer science, Moscow Institute of Electronic Technology
 - Successfully collaborated with field service engineers from the UK.
 </details>
 
-<br />
 <br />
 
     
