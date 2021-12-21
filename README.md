@@ -1,7 +1,7 @@
 ## Кирюшкин Илья
 ![enter image description here](https://drive.google.com/uc?export=view&id=1pPKcGlFSXp93kkjKNtVN74VVd7qRWFEm)
 
-33 года  
+34 года  
 Москва  
 Желаемая должность: технический писатель  
 ikiryushkin@gmail.com
